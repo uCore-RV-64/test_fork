@@ -1,5 +1,4 @@
 setup:
-	touch test.txt
-	git add test.txt
-	git commit -m "ad test.txt"
-	git push
+	mkdir .github
+	cp -r scripts/classroom .github/
+	cp -r scripts/workflows .github/
