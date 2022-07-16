@@ -3,7 +3,7 @@
     {
       "name": "run_os",
       "setup": "",
-      "run": "make test BASE=1",
+      "run": "make setup",
       "input": "",
       "output": "",
       "comparison": "included",
