@@ -1,7 +1,5 @@
 # Makefile
   
-SHELL := /bin/bash
-
 setup:
   touch test.txt
   git add test.txt
